@@ -41,7 +41,6 @@ if len(Test_Files) != len(file_list):
             print(lines_set)
             exit()
 
-            break
         matches.append(lines_set)
         line_counter += 1
     
